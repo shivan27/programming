@@ -1,0 +1,54 @@
+void sayHello () {
+     cout << "Hello Usr" << endl;
+     cout << "How are you?" << endl;
+
+
+}
+
+
+int main()
+{
+    sayHello();
+
+    return 0;
+}
+
+
+
+
+void sayHello () {
+     cout << "Hello Usr" << endl;
+     cout << "How are you?" << endl;
+
+
+}
+
+
+int main()
+{
+    cout << "top" << endl;
+    sayHello();
+    cout << "bottom" << endl;
+    
+    
+    
+   
+void sayHello (string name){
+     cout << "Hello "  << name << endl;
+     cout << "How are you?" << endl;
+
+
+}
+
+
+int main()
+{
+    cout << "top" << endl;
+    sayHello("Larson");
+    cout << "bottom" << endl; 
+    
+    
+    
+    
+    
+    
