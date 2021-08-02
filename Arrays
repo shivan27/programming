@@ -1,0 +1,23 @@
+int luckyNums[] = {8, 12, 24, 27, 38};
+cout << luckyNums[3];
+
+  int luckyNums[] = {8, 12, 24, 27, 38};
+
+    luckyNums[15] = 115;
+
+    cout << luckyNums[15];
+    
+    
+     int luckyNums[20];
+
+    luckyNums[8]= 1;
+
+    cout << luckyNums[8]
+    
+    
+    
+    
+    
+    
+    
+    
