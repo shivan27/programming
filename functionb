@@ -1,0 +1,44 @@
+function(B)
+
+
+
+
+void sayHello(string name, int age) {
+     cout << "Hello " << name << " you are "<< age;
+}
+
+int main()
+{
+    sayHello(" Larson ", 31);
+    return 0;
+}
+
+
+
+
+void sayHello(string name, int age) {
+     cout << "Hello " << name << " you are "<< age;
+}
+
+int main()
+{
+    sayHello(" Larson ", 31);
+    return 0;
+}
+
+
+
+
+void sayHello(string name, int age) {
+     cout << "Hello " << name << " you are "<< age << endl;
+}
+
+int main()
+{
+    sayHello(" Larson ", 31);
+    sayHello(" Brie ", 28);
+    sayHello(" Madison ", 81);
+
+    return 0;
+}
+
