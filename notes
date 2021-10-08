@@ -1,0 +1,28 @@
+-variable = container where we can store different pieces of information /
+            different data values in our programs 
+
+*maintain/manage/track the data
+
+-varibles 
+1)string
+2)numbers 
+
+-debug
+*process of detecting and removing of existing potential bugs 
+
+
+-data types 
+*types of data/information that can use in c++
+*it can be text,decimal numbers, true/false value
+
+-Data types
+1)character
+2)boolean (true/false value)
+
+-numbers 
+1)whole numbers (int)
+2)decimal numbers 
+
+decimal numbers:
+-float 
+-double
